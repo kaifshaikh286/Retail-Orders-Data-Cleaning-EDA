@@ -1,0 +1,421 @@
+OrderID,CustomerName,Age,City,ProductCategory,Price,Quantity,PaymentMode,OrderDate,Rating
+100348,riya patel,59.0,Mumbai,CLOTHING,12603.65,,Cash on Delivery,2025-06-10,
+100116,Ira Rao,56.0,Delhi,electronics,3538.83,4.0,COD,2025-06-02,3.4
+100073,Saanvi Chopra,19.0, Chennai,Furniture,808.81,3.0,COD,20/08/2025,3.7
+100127,IRA BHATT,39.0,Chennai,Grocery,2181.71,,upi,2025-01-16,2.1
+100015,Ananya Gupta,41.0,Ahmedabad,Furniture,9962.81,3.0,,2025-01-19,3.8
+100153,ANIKA VERMA,57.0,Pune,,9517.07,3.0,Debit Card,06-01-2025,4.0
+100124,Krishna Mehta,38.0,Bengaluru,electronics,4348.04,4.0,upi,2025-06-10,1.4
+100230,Vihaan Joshi,26.0,Chennai,CLOTHING,23204.64,2.0,Credit Card,17-11-2025,2.6
+100016,SAI REDDY,52.0,Kolkata,CLOTHING,19316.07,5.0,Credit Card,10/07/2025,3.6
+100287,Ishaan Joshi,31.0,Hyderabad,Electronics,24289.17,5.0,Debit Card,05/06/2025,3.0
+100107,Ananya Shah,42.0,Delhi ,CLOTHING,24252.37,3.0,upi,2025-01-17,2.9
+100343,Myra Kumar,37.0,Chennai,Clothing,15646.1,2.0,Cash on Delivery,08-07-2025,4.5
+100125,Myra Rao,18.0,MUMBAI,Electronics,13430.42,,Cash on Delivery,2025-02-26,1.5
+100157,Anika Pillai,56.0, Chennai,Electronics,14392.8,5.0,upi,09/06/2025,2.2
+100259,Diya Shah,63.0,Mumbai,Furniture,5211.98,5.0,UPI,2025-08-21,4.1
+100197,Ira Mehta,59.0,Delhi ,Stationery,3629.46,3.0,Cash on Delivery,25-06-2025,3.9
+100262,Aarav Kapoor,61.0,MUMBAI,Furniture,6301.37,1.0,Debit Card,06-09-2025,
+100201,Aditya Bhatt,38.0,MUMBAI,Grocery,20951.41,3.0,Net Banking,04-01-2025,
+100066,Aadhya Kumar,56.0,Delhi,electronics,16479.22,5.0,COD,22/07/2025,1.2
+100061,Krishna Iyer,61.0,Kolkata,,15628.83,4.0,UPI,2025-04-06,2.6
+100126,anika joshi,43.0,Hyderabad,Clothing,,1.0,,26/09/2025,2.9
+100334,Aarav Kapoor,25.0,Hyderabad,,9268.86,1.0,Cash on Delivery,07-04-2025,2.8
+100211,KAVYA KUMAR,, Chennai,Clothing,,2.0,Credit Card,2025-10-15,3.4
+100288,Ayaan Singh,64.0,Pune,,14884.02,1.0,COD,,1.4
+100179,Riya Kumar,47.0,,electronics,14057.06,4.0,Cash on Delivery,08/01/2025,
+100298,Diya Sharma,60.0,bengaluru,Furniture,,,Cash on Delivery,2025-09-18,3.3
+100186,Myra Kumar,35.0,Kolkata,Electronics,473.1,1.0,Debit Card,23/05/2025,1.1
+100248,Saanvi Gupta,34.0,Delhi ,Grocery,19308.96,1.0,upi,06/10/2025,2.4
+100353,ishaan nair,31.0,MUMBAI,Clothing,3609.07,5.0,upi,20/03/2025,4.8
+100359,Vivaan Kapoor,48.0,Ahmedabad,CLOTHING,17421.63,1.0,Credit Card,03/23/2025,1.7
+100014,KRISHNA MENON,,bengaluru,Furniture,3651.97,,UPI,2025-09-01,
+100189,Vivaan Sharma,29.0,Chennai,Clothing,20791.76,,,06-09-2025,2.7
+100081,Diya Shah,53.0,Bengaluru,CLOTHING,9394.65,5.0,UPI,01/12/2025,3.7
+100380,Riya Verma,25.0,Bengaluru,Furniture,19265.2,1.0,Credit Card,02/09/2025,3.7
+100328,Kavya Menon,51.0,Delhi ,electronics,11901.37,5.0,Cash on Delivery,2025-06-17,1.1
+100067,Ananya Reddy,43.0,bengaluru,Electronics,8995.92,5.0,COD,22/09/2025,2.4
+100269,VIVAAN PATEL,30.0,Mumbai,Clothing,2200.34,5.0,Debit Card,20/10/2025,2.6
+100137,Anika Das,50.0,Chennai,Clothing,,5.0,COD,06/06/2025,2.0
+100389,ARJUN PATEL,42.0,Hyderabad,Grocery,23444.09,5.0,UPI,02/13/2025,1.4
+100142,Arjun Bhatt,43.0,Delhi,CLOTHING,8193.43,3.0,Credit Card,2025-01-20,3.9
+100195,Aarav Nair,28.0, Chennai,CLOTHING,20591.21,5.0,Cash on Delivery,04/10/2025,3.0
+100102,Arjun Shah,58.0, Chennai,Electronics,6609.75,3.0,COD,01/22/2025,2.1
+100128,Aditya Kapoor,18.0,bengaluru,Electronics,2250.25,3.0,COD,20-08-2025,
+100205,saanvi das,43.0,MUMBAI,Grocery,11934.8,1.0,,2025-08-09,3.9
+100241,myra shah,44.0,Hyderabad,Clothing,18855.01,5.0,Credit Card,2025-10-11,
+100381,Diya Bhatt,20.0,Pune,Electronics,3166.45,4.0,Cash on Delivery,2025-09-14,3.6
+100229,Krishna Joshi,20.0,Bengaluru,Furniture,20681.21,5.0,Cash on Delivery,,4.9
+100377,Myra Pillai,38.0,Kolkata,Furniture,9781.74,4.0,upi,04/11/2025,4.1
+100088,Vivaan Patel,60.0,Chennai,Grocery,17689.91,4.0,COD,2025-10-09,4.3
+100101,Ira Pillai,45.0,MUMBAI,Stationery,,2.0,Net Banking,18-12-2025,1.3
+100196,Saanvi Rao,51.0,Mumbai,electronics,13921.32,1.0,Credit Card,06-10-2025,3.9
+100281,Krishna Verma,38.0,,electronics,,5.0,Net Banking,24-04-2025,3.5
+100024,diya patel,45.0, Chennai,Stationery,20121.25,4.0,UPI,20-11-2025,
+100130,Myra Iyer,24.0,Hyderabad,,,3.0,Cash on Delivery,15/12/2025,1.4
+100144,Aditya Kapoor,28.0,MUMBAI,Grocery,23310.56,5.0,upi,11/03/2025,
+100136,Diya Das,51.0,MUMBAI,Grocery,6222.18,3.0,upi,06/13/2025,3.4
+100040,Anika Joshi,36.0,,Grocery,18190.0,3.0,Net Banking,2025-08-20,2.6
+100399,myra pillai,48.0,Chennai,Grocery,7744.26,3.0,upi,05/10/2025,2.5
+100027,Ishaan Iyer,59.0,Kolkata,Electronics,8539.74,3.0,Debit Card,22/08/2025,3.8
+100031,  Ayaan Menon  ,43.0,Kolkata,electronics,24643.41,4.0,Net Banking,23-11-2025,2.5
+100000,myra chopra,22.0,Delhi,Grocery,8644.16,2.0,UPI,02/03/2025,
+100105,IRA VERMA,47.0,Chennai,Grocery,21671.69,5.0,Credit Card,05/07/2025,2.6
+100056,Ananya Reddy,30.0, Chennai,Grocery,2177.62,1.0,Net Banking,04-04-2025,3.6
+100103,Ayaan Kumar,37.0,Mumbai,Electronics,15129.13,5.0,UPI,13/03/2025,4.3
+100083,AYAAN CHOPRA,42.0,Delhi,Clothing,8103.23,3.0,COD,2025-01-19,1.2
+100244,Ayaan Patel,49.0,Bengaluru,electronics,2239.84,3.0,Net Banking,2025-09-17,3.5
+100227,Vivaan Reddy,21.0,Bengaluru,Clothing,5907.04,4.0,,22/05/2025,4.3
+100037,IRA KUMAR,42.0,Chennai,Stationery,5345.43,2.0,UPI,03/07/2025,3.6
+100376,Kavya Kumar,,Chennai,CLOTHING,1941.3,3.0,Net Banking,2025-01-24,4.8
+100209,Anika Kapoor,64.0,Chennai,,2304.62,3.0,Debit Card,08-05-2025,4.0
+100387,Ananya Malhotra,56.0,,Stationery,21185.88,1.0,Debit Card,02/15/2025,3.5
+100188,myra chopra,22.0,Delhi,Grocery,8644.16,2.0,UPI,02/03/2025,
+100000,Saanvi Patel,19.0,Delhi,,2333.52,5.0,upi,2025-01-09,1.5
+100166,Sai Reddy,54.0,Delhi ,Stationery,17724.88,,upi,17-12-2025,2.5
+100282,vihaan menon,45.0,Ahmedabad,electronics,9370.31,4.0,Credit Card,2025-02-24,4.5
+100161,  Myra Nair  ,64.0,,Stationery,10312.54,5.0,Cash on Delivery,2025-11-02,3.6
+100228,arjun patel,63.0,Hyderabad,Clothing,5882.14,2.0,upi,2025-10-25,1.1
+100286,Reyansh Singh,52.0,Hyderabad,Electronics,19433.61,4.0,Cash on Delivery,2025-07-16,3.5
+100378,Arjun Shah,24.0, Chennai,Stationery,19628.49,3.0,COD,2025-10-11,1.4
+100397,ayaan kumar,39.0, Chennai,Clothing,21223.99,2.0,Cash on Delivery,22-12-2025,4.0
+100338,Riya Verma,40.0,,Clothing,11710.36,4.0,Credit Card,26-04-2025,4.8
+100055,Riya Das,46.0,Kolkata,electronics,7518.28,2.0,Net Banking,03-02-2025,4.5
+100309,Kavya Singh,62.0,Ahmedabad,CLOTHING,20473.18,1.0,Credit Card,2025-01-21,
+100223,anika reddy,21.0,Kolkata,Electronics,17931.5,5.0,Debit Card,2025-01-25,4.6
+100292,Navya Malhotra,18.0,bengaluru,Stationery,11318.43,3.0,Debit Card,12-01-2025,
+100382,Ananya Kapoor,27.0,,Clothing,19998.05,4.0,Debit Card,2025-08-27,1.5
+100236,ISHAAN NAIR,54.0,Hyderabad,CLOTHING,5621.55,5.0,COD,01/05/2025,
+100114,Ananya Gupta,61.0,Chennai,,14089.31,3.0,Debit Card,25-01-2025,1.5
+100245,Myra Nair,48.0,Hyderabad,Furniture,9510.88,5.0,UPI,2025-06-03,2.1
+100123,kavya kapoor,20.0,,Furniture,21876.79,3.0,UPI,10/18/2025,1.9
+100155,Aadhya Shah,57.0,,Electronics,5841.28,3.0,Cash on Delivery,06/06/2025,2.3
+100237,Navya Bhatt,62.0,Hyderabad,Clothing,12092.58,5.0,Debit Card,19-10-2025,3.3
+100323,Ayaan Das,64.0, Chennai,Grocery,23792.37,5.0,upi,22/12/2025,1.9
+100328,Kavya Menon,51.0,Delhi ,electronics,11901.37,5.0,Cash on Delivery,2025-06-17,1.1
+100330,Aarav Kumar,42.0,Bengaluru,Grocery,24696.47,3.0,Net Banking,05/07/2025,3.7
+100255,SAANVI MALHOTRA,61.0,Delhi,electronics,927.86,5.0,Net Banking,05/21/2025,
+100112,Aditya Patel,,Pune,Stationery,15510.49,4.0,Credit Card,07/08/2025,3.7
+100082,Krishna Pillai,40.0,Chennai,Stationery,18900.39,1.0,Debit Card,17/01/2025,3.0
+100053,Ishaan Kumar,64.0,,Stationery,24752.84,2.0,Cash on Delivery,27/10/2025,4.5
+100084,Diya Kapoor,58.0,Delhi,Stationery,21201.51,1.0,Net Banking,07-12-2025,4.8
+100364,Aarav Gupta,39.0,MUMBAI,CLOTHING,20714.32,5.0,upi,22/05/2025,1.0
+100051,Anika Singh,38.0,Hyderabad,,4894.14,1.0,Net Banking,03-02-2025,3.2
+100098,Diya Rao,35.0,Mumbai,Clothing,4280.45,1.0,upi,2025-01-14,3.5
+100010,Ishaan Kapoor,19.0,Mumbai,Stationery,10715.12,2.0,Cash on Delivery,2025-06-04,1.1
+100394,Arjun Sharma,22.0,Hyderabad,,22054.05,4.0,UPI,08-03-2025,2.6
+100307,Reyansh Verma,48.0,Delhi ,electronics,18500.46,4.0,UPI,02/06/2025,2.3
+100074,Saanvi Mehta,52.0,Delhi ,Grocery,16135.71,1.0,upi,19/11/2025,4.8
+100310,Reyansh Reddy,24.0,Hyderabad,,14151.46,3.0,upi,25/01/2025,2.0
+100204,Sai Malhotra,60.0,Pune,Stationery,21183.24,3.0,Cash on Delivery,13-11-2025,2.3
+100303,Ishaan Malhotra,35.0,Delhi ,Electronics,15503.5,1.0,Net Banking,2025-11-12,4.7
+100296,Reyansh Gupta,52.0,Delhi,electronics,11387.15,,Net Banking,2025-05-27,1.4
+100023,Aditya Sharma,39.0,Mumbai,Clothing,22029.63,2.0,Debit Card,13-09-2025,1.4
+100266,Ira Menon,55.0,Ahmedabad,Grocery,22709.29,3.0,upi,22-03-2025,1.4
+100384,Saanvi Singh,34.0,Pune,,23212.88,1.0,UPI,2025-08-25,2.7
+100278,Aditya Gupta,46.0,Pune,Stationery,19774.01,3.0,UPI,02/12/2025,
+100260,Saanvi Das,63.0,Delhi,Grocery,13329.31,3.0,upi,12/05/2025,4.6
+100218,Myra Joshi,50.0,,,22166.55,2.0,UPI,2025-02-12,1.1
+100174,Aditya Bhatt,46.0,Mumbai,,,2.0,Debit Card,05/18/2025,3.1
+100059,Aditya Shah,,Delhi,Stationery,14832.21,1.0,COD,2025-10-20,4.3
+100050,Diya Gupta,63.0,,CLOTHING,24171.37,3.0,upi,04/01/2025,2.2
+100038,Aditya Chopra,43.0,Chennai,CLOTHING,24556.88,4.0,UPI,17/02/2025,5.0
+100299,Arjun Reddy,64.0,Delhi,Clothing,13114.99,4.0,Net Banking,04/06/2025,1.5
+100005,Krishna Iyer,59.0,,Furniture,1309.64,4.0,UPI,2025-03-16,2.5
+100159,Ayaan Patel,22.0,Ahmedabad,electronics,21937.63,1.0,Net Banking,22-06-2025,3.1
+100080,Riya Patel,53.0,Hyderabad,,4559.37,1.0,COD,03/24/2025,5.0
+100185,Ananya Patel,33.0,Pune,Stationery,10020.01,5.0,,05/22/2025,2.6
+100134,ira joshi,64.0,Ahmedabad,Electronics,14667.36,2.0,COD,15-08-2025,3.3
+100271,Sai Joshi,51.0, Chennai,Stationery,1173.41,4.0,Credit Card,17/08/2025,3.5
+100005,Krishna Iyer,59.0,,Furniture,1309.64,4.0,UPI,2025-03-16,2.5
+100075,ANIKA CHOPRA,20.0,,Grocery,20537.61,2.0,Net Banking,11-12-2025,2.1
+100047,Vivaan Sharma,44.0,Bengaluru,Grocery,19901.06,1.0,Credit Card,2025-01-15,1.8
+100046,Saanvi Singh,39.0,Hyderabad,Clothing,6740.28,5.0,UPI,19-06-2025,
+100070,Arjun Malhotra,47.0, Chennai,Stationery,16296.88,2.0,,2025-06-10,
+100371,Ananya Joshi,58.0,Bengaluru,Stationery,2688.42,1.0,upi,09/01/2025,4.2
+100079,Krishna Chopra,28.0,Delhi ,Electronics,21955.18,4.0,Net Banking,2025-05-25,4.9
+100030,Aadhya Menon,54.0,Mumbai,CLOTHING,8725.02,1.0,Cash on Delivery,2025-02-19,3.1
+100233,Arjun Menon,58.0,bengaluru,Stationery,9870.57,3.0,Net Banking,2025-03-09,4.8
+100231,Saanvi Rao,35.0,Mumbai,Electronics,17446.11,3.0,upi,2025-06-03,3.5
+100210,Ayaan Joshi,54.0,,Grocery,17353.07,1.0,Cash on Delivery,09/18/2025,
+100115,Aadhya Kumar,,Delhi ,electronics,10600.31,5.0,COD,21-02-2025,4.2
+100025,arjun singh,45.0,bengaluru,Grocery,9004.0,1.0,upi,2025-09-01,3.6
+100065,ISHAAN SHAH,18.0,Ahmedabad,,11142.45,1.0,COD,05/08/2025,3.6
+100280,Myra Shah,,Hyderabad,CLOTHING,5630.94,1.0,COD,07/12/2025,1.7
+100358,IRA PILLAI,22.0,bengaluru,Clothing,19551.93,2.0,UPI,02/25/2025,2.9
+100154,Saanvi Pillai,32.0,Pune,,14500.53,1.0,UPI,01-07-2025,
+100000,Myra Verma,62.0,Mumbai,,10153.37,1.0,upi,22/06/2025,4.3
+100029,Aadhya Pillai,34.0,Chennai,Grocery,6779.51,2.0,COD,02/12/2025,1.2
+100068,Myra Chopra,45.0,bengaluru,Grocery,1293.17,1.0,,14/04/2025,1.7
+100367,Aditya Singh,62.0,Kolkata,CLOTHING,24400.46,2.0,Credit Card,05/04/2025,2.5
+100077,Ayaan Menon,34.0,Mumbai,Clothing,16444.71,5.0,UPI,26/10/2025,
+100240,Ishaan Reddy,,Hyderabad,CLOTHING,8450.12,5.0,Credit Card,05/25/2025,3.7
+100317,Kavya Kumar,32.0,Ahmedabad,electronics,5049.28,5.0,Cash on Delivery,22/03/2025,1.4
+100238,Aditya Patel,57.0,,Furniture,16998.7,3.0,COD,13/01/2025,4.5
+100058,Vihaan Sharma,51.0,Ahmedabad,electronics,2485.45,3.0,,25/10/2025,3.2
+100125,Myra Rao,18.0,MUMBAI,Electronics,13430.42,,Cash on Delivery,2025-02-26,1.5
+100042,ARJUN NAIR,57.0,bengaluru,,15219.76,3.0,COD,09/16/2025,3.7
+100004,Krishna Reddy,39.0,,electronics,325.6,1.0,Net Banking,17/11/2025,3.4
+100121,Myra Nair,60.0,Ahmedabad,,14554.3,3.0,COD,2025-09-19,2.8
+100191,aadhya iyer,27.0,Delhi,Furniture,14209.55,3.0,upi,14-07-2025,
+100254,KAVYA RAO,64.0,Hyderabad,electronics,17060.41,3.0,UPI,2025-03-27,4.8
+100272,MYRA RAO,,Mumbai,Stationery,22421.1,1.0,,2025-09-06,1.2
+100270,Aditya Kumar,19.0,Ahmedabad,Electronics,24440.04,2.0,COD,2025-10-14,4.2
+100109,Aditya Kapoor,34.0,Chennai,electronics,13428.5,5.0,Debit Card,2025-03-06,3.2
+100118,Ayaan Iyer,55.0,Hyderabad,,11355.12,4.0,Debit Card,23/10/2025,4.4
+100227,Vivaan Reddy,21.0,Bengaluru,Clothing,5907.04,4.0,,22/05/2025,4.3
+100194,Krishna Nair,21.0,MUMBAI,,3437.06,5.0,Net Banking,13/02/2025,2.1
+100006,SAANVI SINGH,20.0,MUMBAI,electronics,21519.52,5.0,,2025-07-09,1.1
+100321,Arjun Reddy,27.0,,electronics,20024.56,1.0,Cash on Delivery,10-10-2025,4.7
+100239,ayaan iyer,36.0, Chennai,Electronics,21723.8,4.0,Net Banking,2025-11-01,4.5
+100373,Krishna Pillai,45.0,Mumbai,Clothing,15984.46,2.0,UPI,08/11/2025,2.8
+100214,Navya Iyer,40.0,Mumbai,Stationery,19914.24,4.0,upi,03/07/2025,2.3
+100225,Diya Chopra,54.0,Bengaluru,Clothing,19690.67,3.0,upi,06/07/2025,4.5
+100368,Navya Shah,28.0,Hyderabad,Furniture,11441.28,4.0,COD,23/05/2025,3.0
+100243,Ananya Singh,48.0,Mumbai,Electronics,177.83,2.0,UPI,12/14/2025,1.0
+100325,Vivaan Nair,33.0,Hyderabad,Stationery,13982.43,3.0,Net Banking,2025-04-05,
+100369,VIHAAN BHATT,21.0,Mumbai,Stationery,21636.81,4.0,Net Banking,08/18/2025,4.2
+100003,Saanvi Gupta,55.0,MUMBAI,electronics,169.35,4.0,UPI,2025-01-21,2.2
+100190,Ira Malhotra,,bengaluru,CLOTHING,,2.0,Net Banking,,1.6
+100122,ARJUN SINGH,33.0,Pune,Clothing,3924.78,4.0,Credit Card,08-04-2025,2.4
+100078,Diya Das,51.0,Kolkata,Grocery,6628.26,4.0,COD,2025-05-26,2.4
+100355,RIYA RAO,21.0,Delhi,CLOTHING,3508.88,4.0,UPI,13-12-2025,4.1
+100064,MYRA CHOPRA,,Kolkata,electronics,24071.81,,Cash on Delivery,12/05/2025,1.2
+100018,Vihaan Verma,40.0,Bengaluru,Clothing,16770.71,5.0,Debit Card,12/03/2025,3.6
+100290,ayaan nair,18.0,,Electronics,19370.81,4.0,COD,13-07-2025,2.8
+100151,Diya Mehta,38.0,MUMBAI,Furniture,4782.16,3.0,COD,10/27/2025,4.6
+100291,Myra Patel,28.0,Kolkata,Electronics,22110.19,2.0,Cash on Delivery,10-12-2025,4.3
+100043,Aarav Shah,,Pune,Stationery,7205.44,2.0,COD,2025-06-02,2.8
+100180,Riya Iyer,56.0,Ahmedabad,Electronics,18868.17,2.0,COD,10-03-2025,3.6
+100333,  Ira Pillai  ,,,electronics,2123.57,5.0,Credit Card,04/01/2025,1.8
+100163,Myra Malhotra,27.0,Hyderabad,electronics,8661.73,2.0,Credit Card,2025-11-14,1.6
+100279,Riya Shah,36.0,Mumbai,Clothing,5827.1,1.0,Net Banking,27-03-2025,1.3
+100140,  Sai Rao  ,32.0,Pune,electronics,20454.24,1.0,Debit Card,24/06/2025,3.7
+100339,Saanvi Sharma,46.0,Delhi,CLOTHING,17296.62,1.0,Net Banking,2025-10-23,1.4
+100395,Arjun Verma,59.0,bengaluru,,16490.37,1.0,Net Banking,05/10/2025,
+100324,Riya Shah,26.0,Delhi ,Stationery,16218.16,2.0,UPI,25/10/2025,
+100332,Ananya Kumar,63.0,Hyderabad,,2737.12,2.0,UPI,06/10/2025,4.6
+100326,Kavya Reddy,36.0,bengaluru,Furniture,21301.68,2.0,Cash on Delivery,25-02-2025,
+100268,Reyansh Joshi,49.0,bengaluru,CLOTHING,23539.75,1.0,Cash on Delivery,2025-01-02,1.4
+100168,Krishna Sharma,28.0,Hyderabad,Stationery,11353.36,5.0,UPI,21-10-2025,4.4
+100344,ayaan shah,33.0,Hyderabad,electronics,12744.94,4.0,upi,2025-04-02,2.2
+100045,Aarav Gupta,25.0,Ahmedabad,Grocery,21253.2,1.0,Cash on Delivery,12/01/2025,3.0
+100304,anika pillai,63.0,Mumbai,,22979.14,1.0,Net Banking,2025-05-19,3.7
+100143,Krishna Das,29.0,Hyderabad,Clothing,3003.7,2.0,Net Banking,2025-06-14,3.3
+100265,Saanvi Patel,48.0,Delhi,Electronics,18088.91,3.0,COD,13/09/2025,4.4
+100261,riya shah,20.0,,,4758.65,1.0,UPI,14/07/2025,1.5
+100041,Anika Malhotra,50.0,Mumbai,Stationery,16104.49,3.0,Credit Card,2025-08-17,4.1
+100224,Krishna Mehta,32.0,Hyderabad,CLOTHING,10780.16,1.0,Credit Card,08/25/2025,1.5
+100021,Reyansh Gupta,30.0,Chennai,CLOTHING,5162.72,1.0,Cash on Delivery,20/04/2025,4.6
+100297,Reyansh Malhotra,31.0,Delhi,CLOTHING,17251.97,4.0,,,4.9
+100108,Diya Gupta,52.0,Kolkata,CLOTHING,3476.23,5.0,Net Banking,16-07-2025,4.5
+100177,Vihaan Verma,36.0,Hyderabad,Electronics,8832.27,5.0,UPI,08/17/2025,3.3
+100057,Ayaan Menon,63.0, Chennai,Grocery,19925.45,4.0,Net Banking,2025-07-19,1.1
+100172,Kavya Reddy,44.0,Ahmedabad,Clothing,11387.62,3.0,UPI,12/27/2025,4.7
+100203,Aarav Mehta,22.0,Hyderabad,electronics,12171.31,2.0,Debit Card,04-04-2025,1.6
+100294,Diya Singh,61.0,Mumbai,,11242.26,4.0,Credit Card,04/27/2025,2.1
+100319,  Vihaan Mehta  ,45.0,Chennai,electronics,13548.16,2.0,Credit Card,02/04/2025,2.6
+100388,Riya Joshi,38.0,Hyderabad,electronics,24463.17,4.0,Credit Card,06/11/2025,4.0
+100170,arjun malhotra,26.0,MUMBAI,electronics,5258.66,1.0,,2025-10-21,2.3
+100029,Aadhya Pillai,34.0,Chennai,Grocery,6779.51,2.0,COD,02/12/2025,1.2
+100162,KRISHNA MENON,53.0, Chennai,,13636.7,3.0,UPI,2025-05-27,4.3
+100149,Anika Chopra,29.0,Bengaluru,Clothing,9573.83,1.0,Cash on Delivery,2025-06-08,
+100392,ishaan joshi,36.0,Delhi,Stationery,3916.5,4.0,,15-09-2025,4.0
+100199,Arjun Mehta,34.0,Bengaluru,Stationery,10556.45,4.0,Credit Card,2025-02-26,1.7
+100313,diya mehta,19.0,,Electronics,,5.0,,09/26/2025,
+100094,Riya Reddy,45.0,MUMBAI,Electronics,14351.1,4.0,Net Banking,09/08/2025,
+100251,  Ira Verma  ,64.0,Delhi,Clothing,12292.78,3.0,COD,11/10/2025,1.0
+100374,Ananya Malhotra,32.0,MUMBAI,Stationery,22251.36,5.0,Net Banking,05/19/2025,3.9
+100221,Kavya Singh,33.0,Ahmedabad,Clothing,21860.88,1.0,upi,09/10/2025,
+100085,Aditya Rao,36.0,Delhi ,CLOTHING,12401.69,5.0,upi,05/03/2025,
+100132,Aadhya Mehta,56.0,Kolkata,electronics,8153.67,2.0,,12-09-2025,4.6
+100187,Riya Joshi,36.0,Chennai,CLOTHING,14638.58,4.0,upi,18-02-2025,4.6
+100361,Sai Kumar,21.0,Kolkata,Stationery,24917.92,1.0,upi,05-07-2025,1.9
+100089,Myra Pillai,34.0,Bengaluru,electronics,2662.9,5.0,Cash on Delivery,08-10-2025,2.6
+100011,Anika Sharma,35.0,Mumbai,electronics,19412.05,2.0,Net Banking,2025-04-10,3.4
+100034,Ananya Pillai,33.0, Chennai,Stationery,1163.26,4.0,upi,04/27/2025,1.1
+100217,Arjun Iyer,32.0,Bengaluru,electronics,20128.83,4.0,Cash on Delivery,09/22/2025,4.0
+100072,Aarav Patel,18.0,MUMBAI,,13553.53,5.0,,04-08-2025,4.8
+100385,aditya nair,42.0,Mumbai,,4217.54,,COD,20/05/2025,3.7
+100247,ARJUN SINGH,21.0,,CLOTHING,4467.77,4.0,Credit Card,18/04/2025,2.2
+100250,Aadhya Reddy,52.0,Chennai,,14920.74,4.0,Credit Card,07/11/2025,4.3
+100314,  Myra Kumar  ,51.0,Bengaluru,Furniture,13236.6,4.0,Cash on Delivery,04/11/2025,4.1
+100139,Aditya Kumar,57.0,bengaluru,Stationery,17469.49,2.0,Debit Card,20-12-2025,
+100284,riya sharma,19.0,Chennai,Electronics,15003.43,4.0,upi,2025-07-06,2.1
+100393,ananya sharma,64.0,Bengaluru,Grocery,4147.08,2.0,Debit Card,08/16/2025,2.0
+100111,Ira Kumar,31.0,Delhi,,5245.38,1.0,Net Banking,19-04-2025,1.9
+100345,Aadhya Singh,62.0, Chennai,electronics,9099.39,5.0,upi,02-11-2025,
+100012,Aditya Gupta,32.0,Hyderabad,Grocery,2349.04,4.0,Debit Card,25-08-2025,4.4
+100220,Diya Bhatt,, Chennai,,1890.24,4.0,Credit Card,2025-05-17,2.9
+100087,Ira Bhatt,56.0,Delhi ,Clothing,24898.89,2.0,Net Banking,03/05/2025,
+100198,Reyansh Shah,51.0,MUMBAI,Stationery,15072.84,1.0,Credit Card,21-07-2025,3.3
+100213,Aarav Pillai,32.0,Kolkata,CLOTHING,,1.0,Net Banking,19/08/2025,4.9
+100370,Krishna Kumar,46.0,Ahmedabad,Electronics,9952.74,2.0,COD,2025-10-21,4.6
+100234,Saanvi Patel,29.0,Hyderabad,Furniture,1030.25,1.0,,05/11/2025,1.3
+100354,sai shah,23.0,Bengaluru,Furniture,,5.0,Debit Card,2025-08-02,
+100164,Vivaan Iyer,30.0,,Electronics,3607.04,2.0,,2025-01-25,1.1
+100175,Kavya Mehta,34.0,Delhi ,Grocery,24032.6,1.0,Debit Card,06/20/2025,4.4
+100349,Reyansh Iyer,52.0,,Grocery,16906.45,2.0,upi,14/06/2025,1.6
+100327,Saanvi Mehta,27.0,Delhi ,electronics,11376.43,2.0,Net Banking,2025-01-05,3.9
+100096,Riya Bhatt,55.0,MUMBAI,Stationery,10992.95,2.0,Credit Card,12/05/2025,1.2
+100263,Arjun Reddy,39.0,Mumbai,electronics,14611.99,5.0,Credit Card,02-08-2025,
+100063,Reyansh Patel,47.0,,Stationery,1170.53,3.0,Net Banking,07/26/2025,2.0
+100222,Sai Nair,37.0,bengaluru,Stationery,18478.92,1.0,Net Banking,03-08-2025,2.1
+100095,Myra Mehta,20.0, Chennai,,14646.71,1.0,Debit Card,17/09/2025,4.5
+100013,Sai Bhatt,62.0, Chennai,Stationery,6893.02,5.0,upi,10/24/2025,4.9
+100017,vihaan menon,45.0,Delhi,CLOTHING,21598.12,4.0,Credit Card,01/02/2025,1.3
+100301,Arjun Nair,38.0,Delhi,Clothing,2483.43,5.0,UPI,05/06/2025,4.9
+100246,AARAV KUMAR,24.0,,Stationery,13600.47,2.0,Cash on Delivery,05/15/2025,
+100207,Myra Shah,54.0,,CLOTHING,208.13,3.0,upi,06/02/2025,1.4
+100090,NAVYA DAS,44.0,Mumbai,,17700.12,5.0,UPI,05/06/2025,4.9
+100273,Ayaan Gupta,49.0,Hyderabad,CLOTHING,7576.07,4.0,Net Banking,08/08/2025,3.9
+100039,ANIKA CHOPRA,29.0,,Clothing,14023.59,3.0,upi,09/23/2025,2.1
+100086,Navya Reddy,38.0,Delhi ,Stationery,18846.51,1.0,upi,07/05/2025,3.0
+100181,ayaan mehta,50.0,Chennai,Furniture,780.85,4.0,,18/07/2025,3.6
+100284,riya sharma,19.0,Chennai,Electronics,15003.43,4.0,upi,2025-07-06,2.1
+100145,Vivaan Shah,27.0,MUMBAI,CLOTHING,13782.79,2.0,Net Banking,12-02-2025,2.3
+100158,Reyansh Chopra,54.0,Pune,Stationery,19497.51,1.0,Cash on Delivery,04-06-2025,3.9
+100342,Riya Verma,37.0,bengaluru,,23185.97,4.0,Credit Card,01-09-2025,3.7
+100000,Reyansh Verma,58.0, Chennai,,2798.84,,Credit Card,02/02/2025,3.4
+100306,Arjun Gupta,26.0, Chennai,Clothing,21681.0,1.0,,16-09-2025,
+100291,Myra Patel,28.0,Kolkata,Electronics,22110.19,2.0,Cash on Delivery,10-12-2025,4.3
+100200,Navya Bhatt,60.0,Mumbai,electronics,4731.62,5.0,upi,,2.0
+100071,Sai Pillai,51.0,,Clothing,6633.21,2.0,COD,26-03-2025,3.0
+100320,Anika Rao,, Chennai,Electronics,10426.7,1.0,,2025-07-11,3.7
+100351,Anika Singh,44.0,bengaluru,Grocery,17419.53,2.0,Credit Card,14-04-2025,3.3
+100302,NAVYA PILLAI,64.0,Delhi ,Clothing,17361.75,,Credit Card,10/11/2025,
+100329,Aditya Iyer,32.0,Mumbai,CLOTHING,,3.0,Net Banking,2025-09-10,2.6
+100391,  Saanvi Mehta  ,61.0,Delhi ,Furniture,18360.12,3.0,Net Banking,05-01-2025,3.0
+100324,Riya Shah,26.0,Delhi ,Stationery,16218.16,2.0,UPI,25/10/2025,
+100133,ADITYA JOSHI,37.0,,Grocery,11928.15,2.0,Credit Card,03-09-2025,3.0
+100060,Kavya Patel,60.0,Hyderabad,Electronics,3307.45,1.0,Cash on Delivery,2025-05-08,
+100340,Diya Sharma,33.0,Mumbai,Electronics,,4.0,Credit Card,08-04-2025,2.9
+100339,Saanvi Sharma,46.0,Delhi,CLOTHING,17296.62,1.0,Net Banking,2025-10-23,1.4
+100100,Sai Rao,33.0,Mumbai,electronics,22273.06,4.0,Net Banking,2025-12-24,2.3
+100019,saanvi verma,,Kolkata,Stationery,14096.9,3.0,Net Banking,03/05/2025,4.0
+100398,  Sai Reddy  ,31.0,Bengaluru,Grocery,18776.21,5.0,COD,,
+100390,Aarav Joshi,38.0,Hyderabad,Electronics,18190.6,3.0,COD,03/18/2025,1.6
+100264,Reyansh Joshi,30.0,Delhi ,electronics,3867.08,5.0,upi,2025-02-18,2.9
+100276,Ayaan Gupta,31.0,Bengaluru,Grocery,2178.51,4.0,Debit Card,2025-12-23,1.6
+100008,Vihaan Rao,19.0,Kolkata,Clothing,17153.19,4.0,,07-12-2025,3.0
+100283,Aadhya Malhotra,49.0,,Electronics,14763.25,2.0,Net Banking,02/21/2025,2.9
+100092,Ira Sharma,21.0,Delhi,Stationery,8852.92,4.0,UPI,,3.2
+100252,Reyansh Sharma,51.0,bengaluru,Furniture,6949.62,5.0,Debit Card,,1.4
+100032,Navya Kumar,34.0,Hyderabad,Grocery,18246.18,5.0,UPI,20/02/2025,3.5
+100135,Vivaan Gupta,61.0,bengaluru,Grocery,3320.37,1.0,,05/06/2025,4.6
+100022,Riya Shah,40.0,Chennai,electronics,15169.77,3.0,Net Banking,07/04/2025,2.2
+100062,Kavya Gupta,52.0,Hyderabad,Furniture,15990.13,4.0,Debit Card,16-02-2025,
+100197,Ira Mehta,59.0,Delhi ,Stationery,3629.46,3.0,Cash on Delivery,25-06-2025,3.9
+100215,Diya Das,59.0,,Stationery,16166.98,3.0,Debit Card,12-12-2025,2.9
+100396,Krishna Mehta,56.0, Chennai,Electronics,15432.21,2.0,Credit Card,2025-09-09,3.2
+100356,Ira Malhotra,49.0,,CLOTHING,14918.13,4.0,Debit Card,18-12-2025,4.4
+100257,Anika Menon,55.0,Hyderabad,Electronics,5864.37,5.0,upi,01/03/2025,3.6
+100052,Aditya Singh,48.0,Ahmedabad,CLOTHING,21128.7,3.0,upi,2025-08-08,1.8
+100347,Aarav Shah,23.0,Chennai,Electronics,22996.89,3.0,,2025-06-15,3.3
+100173,Riya Verma,41.0,Hyderabad,Electronics,14504.15,4.0,Cash on Delivery,06/05/2025,4.7
+100035,Sai Joshi,20.0, Chennai,Grocery,20266.1,4.0,UPI,07-04-2025,4.8
+100178,Vivaan Menon,18.0,Chennai,Furniture,19421.86,2.0,Debit Card,02-06-2025,2.8
+100167,Reyansh Pillai,26.0,,CLOTHING,10689.65,5.0,Credit Card,2025-08-14,4.4
+100226,Aadhya Nair,63.0,Hyderabad,electronics,15079.84,5.0,,02-09-2025,4.0
+100120,Ira Iyer,,Pune,Furniture,11559.52,2.0,,2025-05-06,2.4
+100275,Vihaan Gupta,21.0,Kolkata,Furniture,14997.28,2.0,COD,09/03/2025,1.7
+100044,Myra Sharma,58.0,Hyderabad,CLOTHING,4521.74,4.0,Debit Card,01/05/2025,1.7
+100300,Ananya Joshi,62.0,Pune,,3717.03,2.0,COD,10/12/2025,3.7
+100076,Aditya Kumar,29.0,Kolkata,electronics,2654.33,2.0,,19/02/2025,3.7
+100208,Diya Iyer,,Delhi ,CLOTHING,2425.81,3.0,COD,,4.8
+100212,Anika Iyer,34.0,Kolkata,,4637.3,5.0,Debit Card,2025-10-22,2.3
+100267,Aditya Kumar,34.0,Chennai,Clothing,2704.39,4.0,UPI,20/01/2025,3.2
+100311,Arjun Malhotra,52.0,Kolkata,,,2.0,upi,11/03/2025,1.7
+100216,Reyansh Das,20.0,Kolkata,Grocery,17452.78,2.0,,2025-07-23,1.3
+100366,anika patel,27.0,bengaluru,Furniture,17072.22,5.0,upi,2025-05-01,4.3
+100009,Aarav Reddy,64.0,Hyderabad,electronics,4458.11,1.0,,04/02/2025,3.7
+100372,  Ananya Das  ,46.0,Delhi,Furniture,7092.29,2.0,Cash on Delivery,26-12-2025,4.1
+100357,Kavya Pillai,49.0,Kolkata,Grocery,5518.55,2.0,COD,2025-03-23,2.5
+100285,Anika Mehta,29.0,Bengaluru,Furniture,9688.6,2.0,Debit Card,05/08/2025,3.9
+100295,Saanvi Kapoor,,,Grocery,3205.82,5.0,COD,10/20/2025,1.2
+100104,Myra Pillai,35.0,Hyderabad,Clothing,10503.48,5.0,,15-09-2025,2.7
+100312,  Riya Shah  ,31.0,,electronics,15544.34,1.0,Credit Card,05/03/2025,4.5
+100365,Saanvi Pillai,19.0,MUMBAI,Electronics,3475.02,5.0,,,2.0
+100321,Arjun Reddy,27.0,,electronics,20024.56,1.0,Cash on Delivery,10-10-2025,4.7
+100091,  Arjun Shah  ,62.0,bengaluru,Furniture,9360.46,4.0,Cash on Delivery,17-07-2025,4.9
+100182,navya kapoor,18.0,Chennai,electronics,13860.31,3.0,upi,24/07/2025,3.7
+100315,Kavya Gupta,23.0,Mumbai,,18709.86,,COD,11/27/2025,1.1
+100383,Aadhya Pillai,30.0,Mumbai,Clothing,14623.2,4.0,upi,02-11-2025,1.2
+100172,Kavya Reddy,44.0,Ahmedabad,Clothing,11387.62,3.0,UPI,12/27/2025,4.7
+100232,Aadhya Pillai,64.0,Mumbai,Clothing,1016.4,4.0,COD,14-05-2025,1.4
+100036,Riya Pillai,57.0,Ahmedabad,Furniture,9760.37,2.0,Debit Card,08/01/2025,3.7
+100156,ira mehta,25.0,Bengaluru,Clothing,17388.88,4.0,COD,2025-01-15,3.1
+100002,Arjun Nair,41.0,Mumbai,CLOTHING,16324.58,5.0,Net Banking,02/08/2025,4.3
+100242,AARAV MENON,48.0,,Grocery,20671.55,2.0,UPI,05/11/2025,4.0
+100308,Reyansh Kumar,55.0,MUMBAI,Stationery,11038.58,2.0,upi,2025-09-18,2.3
+100289,Diya Bhatt,34.0,Hyderabad,Clothing,9868.38,1.0,Net Banking,02-03-2025,3.6
+100048,Diya Iyer,36.0, Chennai,Clothing,14364.3,1.0,Net Banking,17/12/2025,4.8
+100141,Myra Kapoor,19.0,MUMBAI,Clothing,13985.56,2.0,Credit Card,12/19/2025,1.8
+100000,anika reddy,21.0,Kolkata,Electronics,17931.5,5.0,Debit Card,2025-01-25,4.6
+100352,Anika Mehta,27.0,Ahmedabad,,20588.64,,Debit Card,01/22/2025,
+100183,Vivaan Singh,25.0,Bengaluru,Clothing,2737.1,5.0,Cash on Delivery,03/03/2025,3.6
+100331,Aditya Kumar,59.0,bengaluru,Clothing,10790.76,1.0,COD,17/11/2025,5.0
+100372,  Ananya Das  ,46.0,Delhi,Furniture,7092.29,2.0,Cash on Delivery,26-12-2025,4.1
+100160,Saanvi Mehta,64.0,Hyderabad,Grocery,21184.34,4.0,Credit Card,24-08-2025,1.6
+100336,Aadhya Gupta,25.0,Ahmedabad,electronics,,4.0,Debit Card,26-03-2025,1.8
+100219,navya patel,59.0, Chennai,,24759.98,3.0,Credit Card,23-02-2025,4.8
+100099,Navya Bhatt,20.0,Pune,CLOTHING,22543.78,1.0,Net Banking,11-12-2025,4.8
+100235,diya kumar,41.0,MUMBAI,CLOTHING,6428.33,3.0,,,
+100117,Ayaan Bhatt,35.0,,Grocery,9897.26,3.0,Credit Card,02/19/2025,
+100341,Diya Nair,47.0,bengaluru,Grocery,5980.86,4.0,Net Banking,2025-08-19,1.1
+100001,Krishna Kapoor,36.0, Chennai,CLOTHING,2634.38,3.0,UPI,2025-05-24,3.4
+100113,Vivaan Chopra,51.0,Chennai,electronics,11983.84,3.0,UPI,02/27/2025,4.4
+100386,Aditya Mehta,63.0,Hyderabad,,465.97,5.0,Debit Card,03/10/2025,4.3
+100174,Aditya Bhatt,46.0,Mumbai,,,2.0,Debit Card,05/18/2025,3.1
+100253,krishna rao,58.0,Delhi ,Clothing,4216.05,5.0,Credit Card,11/04/2025,4.4
+100371,Ananya Joshi,58.0,Bengaluru,Stationery,2688.42,1.0,upi,09/01/2025,4.2
+100184,  Ayaan Sharma  ,64.0, Chennai,Clothing,18062.21,3.0,Cash on Delivery,2025-08-24,4.2
+100165,AYAAN VERMA,60.0,Mumbai,electronics,23313.14,4.0,,2025-04-16,4.2
+100274,Diya Mehta,37.0,Hyderabad,,8585.34,3.0,Net Banking,07/11/2025,4.6
+100192,Saanvi Chopra,34.0,Chennai,Stationery,12196.74,1.0,UPI,14/09/2025,3.2
+100000,Vihaan Sharma,56.0,Delhi,Clothing,19944.09,3.0,Credit Card,05/08/2025,
+100054,Navya Menon,34.0,Ahmedabad,,21239.44,1.0,Cash on Delivery,06/11/2025,2.4
+100375,Vivaan Kapoor,18.0,bengaluru,Electronics,11165.34,5.0,Debit Card,09/08/2025,4.0
+100028,arjun joshi,29.0,,Electronics,6406.79,2.0,Cash on Delivery,03/01/2025,1.6
+100206,Aditya Joshi,42.0,Hyderabad,Furniture,17667.4,2.0,COD,07/25/2025,1.3
+100049,Riya Mehta,46.0,Mumbai,Furniture,7097.07,3.0,Credit Card,09/05/2025,4.7
+100350,Aditya Singh,,Chennai,electronics,7721.28,1.0,UPI,15/05/2025,1.1
+100020,navya malhotra,43.0,Bengaluru,Electronics,6014.23,3.0,,2025-10-09,1.1
+100293,Ishaan Bhatt,37.0,Delhi ,electronics,9577.06,3.0,Cash on Delivery,05-05-2025,3.1
+100176,Krishna Sharma,57.0,Ahmedabad,CLOTHING,12629.55,1.0,Cash on Delivery,07/13/2025,2.7
+100335,Reyansh Bhatt,19.0,Chennai,Furniture,16789.63,4.0,Credit Card,2025-05-27,2.1
+100379,Arjun Malhotra,47.0,Ahmedabad,Grocery,20788.78,2.0,upi,12/06/2025,4.6
+100033,Ananya Joshi,28.0,Kolkata,Furniture,20438.33,1.0,UPI,2025-12-09,
+100171,Ira Gupta,42.0,Pune,Clothing,21608.43,2.0,Cash on Delivery,2025-02-07,2.9
+100007,Navya Bhatt,42.0,,CLOTHING,24145.96,2.0,Debit Card,09/26/2025,
+100318,Ayaan Bhatt,21.0,Bengaluru,Grocery,6530.9,4.0,COD,14/11/2025,4.7
+100078,Diya Das,51.0,Kolkata,Grocery,6628.26,4.0,COD,2025-05-26,2.4
+100106,Arjun Mehta,18.0,bengaluru,electronics,12087.2,1.0,UPI,,4.0
+100097,Navya Nair,38.0,Kolkata,electronics,24825.18,5.0,Credit Card,04-03-2025,3.8
+100110,reyansh pillai,54.0,Mumbai,Grocery,18194.1,2.0,,03/10/2025,2.0
+100360,Krishna Gupta,38.0,Kolkata,Stationery,3166.42,3.0,UPI,07/12/2025,3.5
+100069,Krishna Iyer,,Kolkata,Clothing,2581.18,5.0,Credit Card,04/07/2025,1.7
+100346,Ira Gupta,18.0,Delhi,Furniture,7742.28,4.0,Credit Card,23/10/2025,3.4
+100129,  Aditya Das  ,43.0,Mumbai,electronics,19034.89,2.0,upi,2025-10-13,1.1
+100316,Aditya Pillai,40.0,,Furniture,10856.92,5.0,upi,15-09-2025,3.6
+100258,Riya Kapoor,29.0,Bengaluru,electronics,14134.34,,Net Banking,16/11/2025,4.9
+100322,Ayaan Chopra,37.0,MUMBAI,Stationery,12166.11,1.0,upi,2025-08-12,3.1
+100150,Ayaan Malhotra,46.0,Delhi ,,3623.34,,Credit Card,12/05/2025,1.7
+100337,Krishna Singh,19.0,Kolkata,CLOTHING,24854.36,2.0,Credit Card,06/01/2025,5.0
+100026,Anika Malhotra,30.0,Bengaluru,Clothing,21539.15,3.0,UPI,09/05/2025,
+100398,  Sai Reddy  ,31.0,Bengaluru,Grocery,18776.21,5.0,COD,,
+100093,Krishna Shah,44.0,Bengaluru,Grocery,6330.8,3.0,Credit Card,03/07/2025,2.0
+100148,Ayaan Mehta,61.0,,Grocery,10301.68,5.0,upi,2025-11-24,4.8
+100119,Anika Bhatt,22.0,Bengaluru,electronics,19942.32,2.0,COD,2025-01-24,3.0
+100342,Riya Verma,37.0,bengaluru,,23185.97,4.0,Credit Card,01-09-2025,3.7
+100138,Kavya Nair,21.0,,,21292.82,1.0,Credit Card,03/23/2025,3.1
+100169,Vivaan Reddy,40.0,Delhi ,Stationery,23032.92,3.0,Net Banking,08-05-2025,2.5
+100363,Arjun Reddy,54.0, Chennai,Grocery,22182.11,5.0,upi,03/07/2025,3.1
+100202,Reyansh Joshi,57.0,Hyderabad,Clothing,14225.16,2.0,,2025-08-23,
+100147,diya mehta,32.0,bengaluru,Clothing,11868.67,3.0,Net Banking,05/17/2025,
+100277,Arjun Verma,62.0,Kolkata,Furniture,15451.19,3.0,Net Banking,23-04-2025,4.0
+100256,  Ira Pillai  ,23.0,Kolkata,,19038.34,5.0,Debit Card,11/03/2025,2.6
+100131,Saanvi Bhatt,,Delhi ,Furniture,13385.54,1.0,UPI,23-05-2025,1.7
+100249,Ananya Chopra,43.0,Chennai,Grocery,2006.16,2.0,Debit Card,18/12/2025,4.0
+100152,ira pillai,42.0,Kolkata,electronics,21948.43,1.0,upi,2025-08-18,2.8
+100362,Sai Joshi,46.0,Delhi,electronics,15653.81,4.0,Net Banking,06-07-2025,3.9
